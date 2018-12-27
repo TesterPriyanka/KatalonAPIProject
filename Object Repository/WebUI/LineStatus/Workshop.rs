@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Workshop</name>
+   <tag></tag>
+   <elementGuidId>1251a297-062b-48d5-a205-119ed5567eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>.//*[@id='myNavbar']/ul[1]/li[3]/a[@title='WorkShops']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>.//*[@id='myNavbar']/ul[1]/li[3]/a[@title='WorkShops']</value>
+   </webElementProperties>
+</WebElementEntity>
